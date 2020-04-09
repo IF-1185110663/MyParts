@@ -1,0 +1,15 @@
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\bin\Debug\MyPartofProject.exe.config
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\bin\Debug\MyPartofProject.exe
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\bin\Debug\MyPartofProject.pdb
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\bin\Debug\MyPartofProject.xml
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.frmLogin.resources
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.Resources.resources
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.vbproj.GenerateResource.cache
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.vbproj.CoreCompileInputs.cache
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.exe
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.xml
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.pdb
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\bin\Debug\Logins.accdb
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.vbprojAssemblyReference.cache
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.frmManagerEdits.resources
+C:\Users\Y2jaz\OneDrive\Desktop\BIS 1st Year + Repeat\Repeat_Sem 2_19-20\IS1111\project\MyPart\MyPartofProject\MyPartofProject\obj\Debug\MyPartofProject.SplashScreen1.resources
